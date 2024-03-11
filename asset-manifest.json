@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/brian-maker/social-profile-links.git/static/css/main.d27d5471.css",
-    "main.js": "/brian-maker/social-profile-links.git/static/js/main.84d53ab0.js",
-    "index.html": "/brian-maker/social-profile-links.git/index.html",
-    "main.d27d5471.css.map": "/brian-maker/social-profile-links.git/static/css/main.d27d5471.css.map",
-    "main.84d53ab0.js.map": "/brian-maker/social-profile-links.git/static/js/main.84d53ab0.js.map"
+    "main.css": "/social-profile-links/static/css/main.d27d5471.css",
+    "main.js": "/social-profile-links/static/js/main.84d53ab0.js",
+    "index.html": "/social-profile-links/index.html",
+    "main.d27d5471.css.map": "/social-profile-links/static/css/main.d27d5471.css.map",
+    "main.84d53ab0.js.map": "/social-profile-links/static/js/main.84d53ab0.js.map"
   },
   "entrypoints": [
     "static/css/main.d27d5471.css",
